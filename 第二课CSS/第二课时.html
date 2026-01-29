@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>第二课CSS</title>
+</head>
+<style>
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 12px;
+        font-size: 32px;
+        font-weight: bold;
+        background-color: lightcoral;
+        position: sticky;
+        top: 0;
+    }
+    section {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+
+        font-size: 32px;
+        font-weight: bold;
+    }
+    .column-1 {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        padding: 12px;
+        height: 800px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-color: lightblue;
+    }
+    .column-2 {
+        display: flex;
+        flex-direction: column;
+        flex:1;
+        padding: 12px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 800px;
+        background-color: lightgreen;
+    }
+    @media (max-width: 600px) {
+        section {
+            flex-direction: column;
+        }
+
+        .column-1,
+        .column-2 {
+            height: auto;
+            min-height: 200px;
+        }
+    }
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 12px;
+        font-size: 32px;
+        font-weight: bold;
+        background-color: orange;
+        bottom: 0;
+    }
+</style>
+<body>
+    <header >
+        我来组成头部
+    </header>
+    <section>
+        <div class="column-1">
+            我来组成第一列
+        </div>
+        <div class="column-2">
+            我来组成第二列
+        </div>
+    </section>
+    <footer>
+        我来组成底部
+    </footer>
+</body>
+
+</html>
