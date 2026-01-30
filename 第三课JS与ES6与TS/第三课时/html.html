@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>第三课JS与ES6与TS</title>
+    <link rel="stylesheet" href="./css.css">
+</head>
+
+<body>
+    <header>
+        <p>编写登录页面</p>
+    </header>
+    <section>
+        <form class="login">
+            <h2 style="margin: 0 0 8px 0; color: #333; font-size: 28px; text-align: center;">用户登录</h2>
+            <div class="inputArea">
+                <div>
+                    <label for="account">账号：</label>
+                    <input type="text" id="account" name="account" placeholder="请输入账号" maxlength="12" autocomplete="username">
+                </div>
+                <div>
+                    <label for="password">密码：</label>
+                    <input type="password" id="password" name="password" placeholder="请输入密码" maxlength="8" autocomplete="current-password">
+                </div>
+                <div id="errorMsg" class="error-msg" role="alert" aria-live="polite"></div>
+            </div>
+            <button type="submit" class="submit">登录</button>
+        </form>
+        <div class="side">
+            <div class="state">
+                <h2>登录状态</h2>
+                <p id="welcomeMsg" class="welcome-msg"></p>
+            </div>
+            <div class="user">
+                <h2>测试账号</h2>
+                <ul>
+                    <li>账号：Admin，密码：123456</li>
+                    <li>账号：BestStar，密码：20020220</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <p>仅使用原生三件套H5 + CSS3 + JS</p>
+    </footer>
+    <script src="./js.js"></script>
+</body>
+
+</html>
