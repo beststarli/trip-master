@@ -25,23 +25,23 @@
     "id": 3,
     "question": "抖音的国际版叫什么名字？",
     "options": [
-      { "id": "a", "text": "TikTok" },
       { "id": "b", "text": "Instagram" },
       { "id": "c", "text": "YouTube Shorts" },
-      { "id": "d", "text": "快手国际" }
+      { "id": "d", "text": "快手国际" },
+      { "id": "a", "text": "TikTok" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 4,
     "question": "香港的维多利亚港夜景被称为“世界三大夜景”之一，另外两个是？",
     "options": [
-      { "id": "a", "text": "东京和纽约" },
       { "id": "b", "text": "新加坡和里约热内卢" },
       { "id": "c", "text": "上海和悉尼" },
-      { "id": "d", "text": "巴黎和伦敦" }
+      { "id": "d", "text": "巴黎和伦敦" },
+      { "id": "a", "text": "东京和纽约" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 5,
@@ -80,12 +80,12 @@
     "id": 8,
     "question": "《流浪地球》的导演是谁？",
     "options": [
-      { "id": "a", "text": "郭帆" },
       { "id": "b", "text": "陈思诚" },
       { "id": "c", "text": "宁浩" },
-      { "id": "d", "text": "张艺谋" }
+      { "id": "d", "text": "张艺谋" },
+      { "id": "a", "text": "郭帆" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 9,
@@ -113,56 +113,56 @@
     "id": 11,
     "question": "香港回归祖国的年份是？",
     "options": [
-      { "id": "a", "text": "1997年" },
       { "id": "b", "text": "1999年" },
       { "id": "c", "text": "1984年" },
-      { "id": "d", "text": "2000年" }
+      { "id": "d", "text": "2000年" },
+      { "id": "a", "text": "1997年" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 12,
     "question": "《哪吒之魔童降世》中的哪吒经典台词是？",
     "options": [
-      { "id": "a", "text": "我命由我不由天" },
       { "id": "b", "text": "心之所向 无所不能" },
       { "id": "c", "text": "天生我材必有用" },
-      { "id": "d", "text": "大丈夫当如是" }
+      { "id": "d", "text": "大丈夫当如是" },
+      { "id": "a", "text": "我命由我不由天" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 13,
     "question": "地球上最深的海沟是哪一个？",
     "options": [
-      { "id": "a", "text": "马里亚纳海沟" },
       { "id": "b", "text": "汤加海沟" },
       { "id": "c", "text": "菲律宾海沟" },
-      { "id": "d", "text": "波多黎各海沟" }
+      { "id": "d", "text": "波多黎各海沟" },
+      { "id": "a", "text": "马里亚纳海沟" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 14,
     "question": "字节跳动的创始人是？",
     "options": [
-      { "id": "a", "text": "张一鸣" },
       { "id": "b", "text": "马化腾" },
       { "id": "c", "text": "李彦宏" },
-      { "id": "d", "text": "王兴" }
+      { "id": "d", "text": "王兴" },
+      { "id": "a", "text": "张一鸣" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 15,
     "question": "香港地铁的英文名称是？",
     "options": [
-      { "id": "a", "text": "MTR" },
       { "id": "b", "text": "HK Metro" },
       { "id": "c", "text": "Subway HK" },
-      { "id": "d", "text": "Railway HK" }
+      { "id": "d", "text": "Railway HK" },
+      { "id": "a", "text": "MTR" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 16,
@@ -190,12 +190,12 @@
     "id": 18,
     "question": "世界上面积最大的国家是？",
     "options": [
-      { "id": "a", "text": "俄罗斯" },
       { "id": "b", "text": "加拿大" },
       { "id": "c", "text": "中国" },
-      { "id": "d", "text": "美国" }
+      { "id": "d", "text": "美国" },
+      { "id": "a", "text": "俄罗斯" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 19,
@@ -212,12 +212,12 @@
     "id": 20,
     "question": "香港的区旗上有哪种花？",
     "options": [
-      { "id": "a", "text": "洋紫荆" },
       { "id": "b", "text": "莲花" },
       { "id": "c", "text": "牡丹" },
-      { "id": "d", "text": "玫瑰" }
+      { "id": "d", "text": "玫瑰" },
+      { "id": "a", "text": "洋紫荆" }
     ],
-    "correctOption": 0
+    "correctOption": 3
   },
   {
     "id": 21,
