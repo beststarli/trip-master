@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "《英雄联盟》这款游戏的开发公司是哪一家？",
+    "options": [
+      { "id": "a", "text": "腾讯" },
+      { "id": "b", "text": "Riot Games" },
+      { "id": "c", "text": "网易" },
+      { "id": "d", "text": "米哈游" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 2,
+    "question": "微信的母公司是哪一家？",
+    "options": [
+      { "id": "a", "text": "阿里巴巴" },
+      { "id": "b", "text": "字节跳动" },
+      { "id": "c", "text": "腾讯" },
+      { "id": "d", "text": "百度" }
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 3,
+    "question": "抖音的国际版叫什么名字？",
+    "options": [
+      { "id": "a", "text": "TikTok" },
+      { "id": "b", "text": "Instagram" },
+      { "id": "c", "text": "YouTube Shorts" },
+      { "id": "d", "text": "快手国际" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 4,
+    "question": "香港的维多利亚港夜景被称为“世界三大夜景”之一，另外两个是？",
+    "options": [
+      { "id": "a", "text": "东京和纽约" },
+      { "id": "b", "text": "新加坡和里约热内卢" },
+      { "id": "c", "text": "上海和悉尼" },
+      { "id": "d", "text": "巴黎和伦敦" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 5,
+    "question": "电影《阿丽塔：战斗天使》的导演是谁？",
+    "options": [
+      { "id": "a", "text": "詹姆斯·卡梅隆" },
+      { "id": "b", "text": "罗伯特·罗德里格兹" },
+      { "id": "c", "text": "乔治·卢卡斯" },
+      { "id": "d", "text": "克里斯托弗·诺兰" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 6,
+    "question": "中国第一条高铁是哪一条？",
+    "options": [
+      { "id": "a", "text": "京沪高铁" },
+      { "id": "b", "text": "京津城际" },
+      { "id": "c", "text": "广深高铁" },
+      { "id": "d", "text": "沪杭高铁" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 7,
+    "question": "香港的最高建筑是哪一座？",
+    "options": [
+      { "id": "a", "text": "国际金融中心二期" },
+      { "id": "b", "text": "中环中心" },
+      { "id": "c", "text": "环球贸易广场" },
+      { "id": "d", "text": "香港故宫文化博物馆" }
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 8,
+    "question": "《流浪地球》的导演是谁？",
+    "options": [
+      { "id": "a", "text": "郭帆" },
+      { "id": "b", "text": "陈思诚" },
+      { "id": "c", "text": "宁浩" },
+      { "id": "d", "text": "张艺谋" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 9,
+    "question": "世界上人口最多的国家目前是哪个？",
+    "options": [
+      { "id": "a", "text": "中国" },
+      { "id": "b", "text": "印度" },
+      { "id": "c", "text": "美国" },
+      { "id": "d", "text": "印尼" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 10,
+    "question": "支付宝的母公司是哪一家？",
+    "options": [
+      { "id": "a", "text": "腾讯" },
+      { "id": "b", "text": "蚂蚁集团（阿里巴巴）" },
+      { "id": "c", "text": "京东" },
+      { "id": "d", "text": "字节跳动" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 11,
+    "question": "香港回归祖国的年份是？",
+    "options": [
+      { "id": "a", "text": "1997年" },
+      { "id": "b", "text": "1999年" },
+      { "id": "c", "text": "1984年" },
+      { "id": "d", "text": "2000年" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 12,
+    "question": "《哪吒之魔童降世》中的哪吒经典台词是？",
+    "options": [
+      { "id": "a", "text": "我命由我不由天" },
+      { "id": "b", "text": "心之所向 无所不能" },
+      { "id": "c", "text": "天生我材必有用" },
+      { "id": "d", "text": "大丈夫当如是" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 13,
+    "question": "地球上最深的海沟是哪一个？",
+    "options": [
+      { "id": "a", "text": "马里亚纳海沟" },
+      { "id": "b", "text": "汤加海沟" },
+      { "id": "c", "text": "菲律宾海沟" },
+      { "id": "d", "text": "波多黎各海沟" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 14,
+    "question": "字节跳动的创始人是？",
+    "options": [
+      { "id": "a", "text": "张一鸣" },
+      { "id": "b", "text": "马化腾" },
+      { "id": "c", "text": "李彦宏" },
+      { "id": "d", "text": "王兴" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 15,
+    "question": "香港地铁的英文名称是？",
+    "options": [
+      { "id": "a", "text": "MTR" },
+      { "id": "b", "text": "HK Metro" },
+      { "id": "c", "text": "Subway HK" },
+      { "id": "d", "text": "Railway HK" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 16,
+    "question": "《寄生虫》获得奥斯卡最佳影片的年份是？",
+    "options": [
+      { "id": "a", "text": "2019" },
+      { "id": "b", "text": "2020" },
+      { "id": "c", "text": "2021" },
+      { "id": "d", "text": "2018" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 17,
+    "question": "中国古代四大发明不包括以下哪一项？",
+    "options": [
+      { "id": "a", "text": "造纸术" },
+      { "id": "b", "text": "印刷术" },
+      { "id": "c", "text": "火药" },
+      { "id": "d", "text": "指南针" }
+    ],
+    "correctOption": 3
+  },
+  {
+    "id": 18,
+    "question": "世界上面积最大的国家是？",
+    "options": [
+      { "id": "a", "text": "俄罗斯" },
+      { "id": "b", "text": "加拿大" },
+      { "id": "c", "text": "中国" },
+      { "id": "d", "text": "美国" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 19,
+    "question": "小红书的英文名是？",
+    "options": [
+      { "id": "a", "text": "RED" },
+      { "id": "b", "text": "Little Red Book" },
+      { "id": "c", "text": "Xiaohongshu" },
+      { "id": "d", "text": "RedNote" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 20,
+    "question": "香港的区旗上有哪种花？",
+    "options": [
+      { "id": "a", "text": "洋紫荆" },
+      { "id": "b", "text": "莲花" },
+      { "id": "c", "text": "牡丹" },
+      { "id": "d", "text": "玫瑰" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 21,
+    "question": "《三体》小说的作者是谁？",
+    "options": [
+      { "id": "a", "text": "刘慈欣" },
+      { "id": "b", "text": "莫言" },
+      { "id": "c", "text": "余华" },
+      { "id": "d", "text": "贾平凹" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 22,
+    "question": "iPhone的制造商是哪家公司？",
+    "options": [
+      { "id": "a", "text": "三星" },
+      { "id": "b", "text": "苹果" },
+      { "id": "c", "text": "华为" },
+      { "id": "d", "text": "小米" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 23,
+    "question": "长城最东端位于哪个省？",
+    "options": [
+      { "id": "a", "text": "辽宁" },
+      { "id": "b", "text": "河北" },
+      { "id": "c", "text": "山东" },
+      { "id": "d", "text": "陕西" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 24,
+    "question": "《速度与激情》系列的主演之一是？",
+    "options": [
+      { "id": "a", "text": "保罗·沃克" },
+      { "id": "b", "text": "汤姆·克鲁斯" },
+      { "id": "c", "text": "基努·里维斯" },
+      { "id": "d", "text": "杰森·斯坦森" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 25,
+    "question": "香港的官方语言有几种？",
+    "options": [
+      { "id": "a", "text": "一种" },
+      { "id": "b", "text": "两种" },
+      { "id": "c", "text": "三种" },
+      { "id": "d", "text": "四种" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 26,
+    "question": "ChatGPT的开发公司是？",
+    "options": [
+      { "id": "a", "text": "OpenAI" },
+      { "id": "b", "text": "Google" },
+      { "id": "c", "text": "Meta" },
+      { "id": "d", "text": "Microsoft" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 27,
+    "question": "世界上最长的河流是？",
+    "options": [
+      { "id": "a", "text": "尼罗河" },
+      { "id": "b", "text": "亚马逊河" },
+      { "id": "c", "text": "长江" },
+      { "id": "d", "text": "黄河" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 28,
+    "question": "周杰伦的成名曲《双截棍》出自哪张专辑？",
+    "options": [
+      { "id": "a", "text": "范特西" },
+      { "id": "b", "text": "叶惠美" },
+      { "id": "c", "text": "七里香" },
+      { "id": "d", "text": "十一月的萧邦" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 29,
+    "question": "中国第一座核电站是哪一座？",
+    "options": [
+      { "id": "a", "text": "秦山核电站" },
+      { "id": "b", "text": "大亚湾核电站" },
+      { "id": "c", "text": "田湾核电站" },
+      { "id": "d", "text": "岭澳核电站" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 30,
+    "question": "香港迪士尼乐园于哪一年开园？",
+    "options": [
+      { "id": "a", "text": "2005年" },
+      { "id": "b", "text": "1999年" },
+      { "id": "c", "text": "2010年" },
+      { "id": "d", "text": "2000年" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 31,
+    "question": "百度地图的竞争对手主要是？",
+    "options": [
+      { "id": "a", "text": "高德地图" },
+      { "id": "b", "text": "腾讯地图" },
+      { "id": "c", "text": "苹果地图" },
+      { "id": "d", "text": "谷歌地图" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 32,
+    "question": "《泰坦尼克号》的导演是？",
+    "options": [
+      { "id": "a", "text": "詹姆斯·卡梅隆" },
+      { "id": "b", "text": "史蒂文·斯皮尔伯格" },
+      { "id": "c", "text": "克里斯托弗·诺兰" },
+      { "id": "d", "text": "彼得·杰克逊" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 33,
+    "question": "中国首都北京的古称不包括？",
+    "options": [
+      { "id": "a", "text": "燕京" },
+      { "id": "b", "text": "蓟城" },
+      { "id": "c", "text": "大都" },
+      { "id": "d", "text": "长安" }
+    ],
+    "correctOption": 3
+  },
+  {
+    "id": 34,
+    "question": "小米公司的创始人是？",
+    "options": [
+      { "id": "a", "text": "雷军" },
+      { "id": "b", "text": "黄章" },
+      { "id": "c", "text": "刘德" },
+      { "id": "d", "text": "林斌" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 35,
+    "question": "香港太平山顶的缆车叫什么？",
+    "options": [
+      { "id": "a", "text": "山顶缆车" },
+      { "id": "b", "text": "维港缆车" },
+      { "id": "c", "text": "昂坪360" },
+      { "id": "d", "text": "天星小轮" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 36,
+    "question": "《哈利·波特》系列的作者是？",
+    "options": [
+      { "id": "a", "text": "J.K.罗琳" },
+      { "id": "b", "text": "斯蒂芬·金" },
+      { "id": "c", "text": "托尔金" },
+      { "id": "d", "text": "乔治·马丁" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 37,
+    "question": "世界上最高的山峰是？",
+    "options": [
+      { "id": "a", "text": "珠穆朗玛峰" },
+      { "id": "b", "text": "乔戈里峰" },
+      { "id": "c", "text": "洛子峰" },
+      { "id": "d", "text": "马特峰" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 38,
+    "question": "拼多多的创始人是？",
+    "options": [
+      { "id": "a", "text": "黄峥" },
+      { "id": "b", "text": "马云" },
+      { "id": "c", "text": "刘强东" },
+      { "id": "d", "text": "王健林" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 39,
+    "question": "《大话西游》至尊宝的经典台词是？",
+    "options": [
+      { "id": "a", "text": "曾经有一份真挚的爱情摆在我面前" },
+      { "id": "b", "text": "一生所爱" },
+      { "id": "c", "text": "我爱你一万年" },
+      { "id": "d", "text": "等到下辈子" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 40,
+    "question": "中国第一辆高铁动车组叫什么？",
+    "options": [
+      { "id": "a", "text": "和谐号" },
+      { "id": "b", "text": "复兴号" },
+      { "id": "c", "text": "CRH" },
+      { "id": "d", "text": "动车组" }
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 41,
+    "question": "香港海洋公园的主要吉祥物是？",
+    "options": [
+      { "id": "a", "text": "威威与好友" },
+      { "id": "b", "text": "米奇老鼠" },
+      { "id": "c", "text": "熊猫" },
+      { "id": "d", "text": "海豚" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 42,
+    "question": "Meta的前身公司名叫？",
+    "options": [
+      { "id": "a", "text": "Facebook" },
+      { "id": "b", "text": "Instagram" },
+      { "id": "c", "text": "WhatsApp" },
+      { "id": "d", "text": "Twitter" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 43,
+    "question": "《战狼2》的票房在中国电影史上长期保持第一直到？",
+    "options": [
+      { "id": "a", "text": "2021年" },
+      { "id": "b", "text": "2019年" },
+      { "id": "c", "text": "2023年" },
+      { "id": "d", "text": "2017年" }
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 44,
+    "question": "世界上最小的国家是？",
+    "options": [
+      { "id": "a", "text": "梵蒂冈" },
+      { "id": "b", "text": "摩纳哥" },
+      { "id": "c", "text": "瑙鲁" },
+      { "id": "d", "text": "图瓦卢" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 45,
+    "question": "华为的创始人是？",
+    "options": [
+      { "id": "a", "text": "任正非" },
+      { "id": "b", "text": "余承东" },
+      { "id": "c", "text": "孟晚舟" },
+      { "id": "d", "text": "李一男" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 46,
+    "question": "《疯狂的麦克斯：狂暴之路》的导演是？",
+    "options": [
+      { "id": "a", "text": "乔治·米勒" },
+      { "id": "b", "text": "昆汀·塔伦蒂诺" },
+      { "id": "c", "text": "马丁·斯科塞斯" },
+      { "id": "d", "text": "丹尼斯·维伦纽瓦" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 47,
+    "question": "中国最古老的现存古城是？",
+    "options": [
+      { "id": "a", "text": "平遥古城" },
+      { "id": "b", "text": "丽江古城" },
+      { "id": "c", "text": "西安古城墙" },
+      { "id": "d", "text": "凤凰古城" }
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 48,
+    "question": "B站的全称是？",
+    "options": [
+      { "id": "a", "text": "哔哩哔哩" },
+      { "id": "b", "text": "弹幕视频网" },
+      { "id": "c", "text": "AcFun" },
+      { "id": "d", "text": "优酷" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 49,
+    "question": "香港的货币单位是？",
+    "options": [
+      { "id": "a", "text": "港元（HKD）" },
+      { "id": "b", "text": "人民币" },
+      { "id": "c", "text": "美元" },
+      { "id": "d", "text": "新元" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 50,
+    "question": "《阿凡达》的续集第一部叫？",
+    "options": [
+      { "id": "a", "text": "阿凡达：水之道" },
+      { "id": "b", "text": "阿凡达2" },
+      { "id": "c", "text": "潘多拉之战" },
+      { "id": "d", "text": "蓝精灵" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 51,
+    "question": "谷歌的母公司叫什么？",
+    "options": [
+      { "id": "a", "text": "Alphabet" },
+      { "id": "b", "text": "Google Inc." },
+      { "id": "c", "text": "Android" },
+      { "id": "d", "text": "YouTube" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 52,
+    "question": "中国第一位获得诺贝尔文学奖的是？",
+    "options": [
+      { "id": "a", "text": "莫言" },
+      { "id": "b", "text": "屠呦呦" },
+      { "id": "c", "text": "高行健" },
+      { "id": "d", "text": "刘慈欣" }
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 53,
+    "question": "世界上最繁忙的机场是？",
+    "options": [
+      { "id": "a", "text": "亚特兰大机场" },
+      { "id": "b", "text": "北京首都机场" },
+      { "id": "c", "text": "迪拜机场" },
+      { "id": "d", "text": "东京成田" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 54,
+    "question": "《甄嬛传》的女主角甄嬛最后成为？",
+    "options": [
+      { "id": "a", "text": "太后" },
+      { "id": "b", "text": "皇后" },
+      { "id": "c", "text": "贵妃" },
+      { "id": "d", "text": "熹妃" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 55,
+    "question": "香港的立法会共有多少议席（2022年后）？",
+    "options": [
+      { "id": "a", "text": "90席" },
+      { "id": "b", "text": "70席" },
+      { "id": "c", "text": "100席" },
+      { "id": "d", "text": "80席" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 56,
+    "question": "特斯拉的CEO是？",
+    "options": [
+      { "id": "a", "text": "埃隆·马斯克" },
+      { "id": "b", "text": "杰夫·贝佐斯" },
+      { "id": "c", "text": "蒂姆·库克" },
+      { "id": "d", "text": "萨蒂亚·纳德拉" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 57,
+    "question": "《长安三万里》是一部关于谁的动画电影？",
+    "options": [
+      { "id": "a", "text": "李白" },
+      { "id": "b", "text": "杜甫" },
+      { "id": "c", "text": "高适" },
+      { "id": "d", "text": "王维" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 58,
+    "question": "亚马逊的创始人是？",
+    "options": [
+      { "id": "a", "text": "杰夫·贝佐斯" },
+      { "id": "b", "text": "比尔·盖茨" },
+      { "id": "c", "text": "拉里·佩奇" },
+      { "id": "d", "text": "马克·扎克伯格" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 59,
+    "question": "中国最大的淡水湖是？",
+    "options": [
+      { "id": "a", "text": "鄱阳湖" },
+      { "id": "b", "text": "洞庭湖" },
+      { "id": "c", "text": "太湖" },
+      { "id": "d", "text": "洪泽湖" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 60,
+    "question": "《鱿鱼游戏》的国家是？",
+    "options": [
+      { "id": "a", "text": "韩国" },
+      { "id": "b", "text": "日本" },
+      { "id": "c", "text": "中国" },
+      { "id": "d", "text": "泰国" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 61,
+    "question": "香港机场的英文简称是？",
+    "options": [
+      { "id": "a", "text": "HKG" },
+      { "id": "b", "text": "HKIA" },
+      { "id": "c", "text": "HKA" },
+      { "id": "d", "text": "CHE" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 62,
+    "question": "《黑神话：悟空》游戏的开发公司是？",
+    "options": [
+      { "id": "a", "text": "游戏科学" },
+      { "id": "b", "text": "腾讯游戏" },
+      { "id": "c", "text": "网易游戏" },
+      { "id": "d", "text": "米哈游" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 63,
+    "question": "世界七大奇迹中现存的是？",
+    "options": [
+      { "id": "a", "text": "吉萨金字塔" },
+      { "id": "b", "text": "巴比伦空中花园" },
+      { "id": "c", "text": "罗德岛太阳神巨像" },
+      { "id": "d", "text": "亚历山大灯塔" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 64,
+    "question": "《狂飙》剧中的高启强原型灵感来源于？",
+    "options": [
+      { "id": "a", "text": "现实扫黑案例" },
+      { "id": "b", "text": "古代人物" },
+      { "id": "c", "text": "外国黑帮电影" },
+      { "id": "d", "text": "小说改编" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 65,
+    "question": "中国高铁运营里程全球第一的国家里程约多少万公里（2025年数据）？",
+    "options": [
+      { "id": "a", "text": "4万多公里" },
+      { "id": "b", "text": "2万公里" },
+      { "id": "c", "text": "6万公里" },
+      { "id": "d", "text": "1万公里" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 66,
+    "question": "香港的填海面积占总面积大约多少？",
+    "options": [
+      { "id": "a", "text": "约6-7%" },
+      { "id": "b", "text": "20%" },
+      { "id": "c", "text": "50%" },
+      { "id": "d", "text": "2%" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 67,
+    "question": "Netflix最火的韩剧之一是？",
+    "options": [
+      { "id": "a", "text": "鱿鱼游戏" },
+      { "id": "b", "text": "爱的迫降" },
+      { "id": "c", "text": "鬼怪" },
+      { "id": "d", "text": "太阳的后裔" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 68,
+    "question": "微信支付和支付宝在中国市场份额最大的两家支付平台是谁占主导？",
+    "options": [
+      { "id": "a", "text": "支付宝略高" },
+      { "id": "b", "text": "微信支付略高" },
+      { "id": "c", "text": "平分秋色" },
+      { "id": "d", "text": "银联主导" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 69,
+    "question": "《奥本海默》的导演是？",
+    "options": [
+      { "id": "a", "text": "克里斯托弗·诺兰" },
+      { "id": "b", "text": "昆汀·塔伦蒂诺" },
+      { "id": "c", "text": "丹尼斯·维伦纽瓦" },
+      { "id": "d", "text": "马丁·斯科塞斯" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 70,
+    "question": "中国古代丝绸之路的起点是？",
+    "options": [
+      { "id": "a", "text": "长安" },
+      { "id": "b", "text": "洛阳" },
+      { "id": "c", "text": "敦煌" },
+      { "id": "d", "text": "西安" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 71,
+    "question": "香港大学是亚洲哪一年份成立的最早大学之一？",
+    "options": [
+      { "id": "a", "text": "1911年" },
+      { "id": "b", "text": "1887年" },
+      { "id": "c", "text": "1930年" },
+      { "id": "d", "text": "1843年" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 72,
+    "question": "《原神》的开放世界背景设定在？",
+    "options": [
+      { "id": "a", "text": "提瓦特大陆" },
+      { "id": "b", "text": "艾泽拉斯" },
+      { "id": "c", "text": "中土世界" },
+      { "id": "d", "text": "潘多拉" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 73,
+    "question": "世界上最贵的奢侈品牌之一是？",
+    "options": [
+      { "id": "a", "text": "路易威登" },
+      { "id": "b", "text": "爱马仕" },
+      { "id": "c", "text": "香奈儿" },
+      { "id": "d", "text": "古驰" }
+    ],
+    "correctOption": 1
+  },
+  {
+    "id": 74,
+    "question": "《流浪地球2》的主要反派势力是？",
+    "options": [
+      { "id": "a", "text": "数字生命" },
+      { "id": "b", "text": "外星人" },
+      { "id": "c", "text": "机器人叛乱" },
+      { "id": "d", "text": "太阳危机" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 75,
+    "question": "香港的股票交易所叫？",
+    "options": [
+      { "id": "a", "text": "香港交易所（HKEX）" },
+      { "id": "b", "text": "上交所" },
+      { "id": "c", "text": "深交所" },
+      { "id": "d", "text": "纽交所" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 76,
+    "question": "抖音的算法核心被称为？",
+    "options": [
+      { "id": "a", "text": "推荐算法" },
+      { "id": "b", "text": "千人千面" },
+      { "id": "c", "text": "兴趣图谱" },
+      { "id": "d", "text": "以上都是" }
+    ],
+    "correctOption": 3
+  },
+  {
+    "id": 77,
+    "question": "《灌篮高手》的主人公是？",
+    "options": [
+      { "id": "a", "text": "樱木花道" },
+      { "id": "b", "text": "流川枫" },
+      { "id": "c", "text": "三井寿" },
+      { "id": "d", "text": "赤木刚宪" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 78,
+    "question": "中国最大的电商平台是？",
+    "options": [
+      { "id": "a", "text": "淘宝/天猫" },
+      { "id": "b", "text": "京东" },
+      { "id": "c", "text": "拼多多" },
+      { "id": "d", "text": "抖音电商" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 79,
+    "question": "香港的著名地标“幻彩咏香江”是指？",
+    "options": [
+      { "id": "a", "text": "维港灯光秀" },
+      { "id": "b", "text": "太平山顶夜景" },
+      { "id": "c", "text": "昂坪大佛" },
+      { "id": "d", "text": "天星小轮" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 80,
+    "question": "《误杀》系列的男主角由谁主演？",
+    "options": [
+      { "id": "a", "text": "肖央" },
+      { "id": "b", "text": "雷佳音" },
+      { "id": "c", "text": "张译" },
+      { "id": "d", "text": "黄渤" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 81,
+    "question": "5G技术的核心标准制定组织是？",
+    "options": [
+      { "id": "a", "text": "3GPP" },
+      { "id": "b", "text": "IEEE" },
+      { "id": "c", "text": "ITU" },
+      { "id": "d", "text": "W3C" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 82,
+    "question": "《长津湖》电影系列的背景是？",
+    "options": [
+      { "id": "a", "text": "抗美援朝" },
+      { "id": "b", "text": "抗日战争" },
+      { "id": "c", "text": "解放战争" },
+      { "id": "d", "text": "辛亥革命" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 83,
+    "question": "地球上最大的沙漠是？",
+    "options": [
+      { "id": "a", "text": "撒哈拉沙漠" },
+      { "id": "b", "text": "戈壁沙漠" },
+      { "id": "c", "text": "阿拉伯沙漠" },
+      { "id": "d", "text": "南极沙漠" }
+    ],
+    "correctOption": 3
+  },
+  {
+    "id": 84,
+    "question": "快手的竞争对手主要是？",
+    "options": [
+      { "id": "a", "text": "抖音" },
+      { "id": "b", "text": "小红书" },
+      { "id": "c", "text": "B站" },
+      { "id": "d", "text": "微博" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 85,
+    "question": "香港的“狮子山精神”象征什么？",
+    "options": [
+      { "id": "a", "text": "自强不息、艰苦奋斗" },
+      { "id": "b", "text": "自由民主" },
+      { "id": "c", "text": "财富积累" },
+      { "id": "d", "text": "科技领先" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 86,
+    "question": "《庆余年》的原著作者是？",
+    "options": [
+      { "id": "a", "text": "猫腻" },
+      { "id": "b", "text": "烽火戏诸侯" },
+      { "id": "c", "text": "唐家三少" },
+      { "id": "d", "text": "我吃西红柿" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 87,
+    "question": "中国第一艘国产航母叫？",
+    "options": [
+      { "id": "a", "text": "山东舰" },
+      { "id": "b", "text": "辽宁舰" },
+      { "id": "c", "text": "福建舰" },
+      { "id": "d", "text": "003型" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 88,
+    "question": "《蜘蛛侠：纵横宇宙》的风格主要是？",
+    "options": [
+      { "id": "a", "text": "动画" },
+      { "id": "b", "text": "真人" },
+      { "id": "c", "text": "真人+CG" },
+      { "id": "d", "text": "定格动画" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 89,
+    "question": "香港的填海工程最著名的是哪一区？",
+    "options": [
+      { "id": "a", "text": "中环及湾仔" },
+      { "id": "b", "text": "九龙" },
+      { "id": "c", "text": "新界" },
+      { "id": "d", "text": "离岛" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 90,
+    "question": "元宇宙概念最早由哪本书提出？",
+    "options": [
+      { "id": "a", "text": "《雪崩》" },
+      { "id": "b", "text": "《神经漫游者》" },
+      { "id": "c", "text": "《黑客帝国》" },
+      { "id": "d", "text": "《三体》" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 91,
+    "question": "《漫长的季节》被誉为中国近年最好看的剧之一，它的类型是？",
+    "options": [
+      { "id": "a", "text": "悬疑犯罪" },
+      { "id": "b", "text": "古装剧" },
+      { "id": "c", "text": "喜剧" },
+      { "id": "d", "text": "仙侠" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 92,
+    "question": "中国最大的岛屿是？",
+    "options": [
+      { "id": "a", "text": "台湾岛" },
+      { "id": "b", "text": "海南岛" },
+      { "id": "c", "text": "崇明岛" },
+      { "id": "d", "text": "舟山岛" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 93,
+    "question": "《孤注一掷》的主题是？",
+    "options": [
+      { "id": "a", "text": "网络诈骗" },
+      { "id": "b", "text": "赌博" },
+      { "id": "c", "text": "爱情" },
+      { "id": "d", "text": "职场" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 94,
+    "question": "香港的“东方之珠”称号来源于？",
+    "options": [
+      { "id": "a", "text": "夜景璀璨" },
+      { "id": "b", "text": "金融中心" },
+      { "id": "c", "text": "购物天堂" },
+      { "id": "d", "text": "美食之都" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 95,
+    "question": "ChatGPT于哪一年正式向公众开放？",
+    "options": [
+      { "id": "a", "text": "2022年11月" },
+      { "id": "b", "text": "2021年" },
+      { "id": "c", "text": "2023年" },
+      { "id": "d", "text": "2020年" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 96,
+    "question": "《封神第一部》的导演是？",
+    "options": [
+      { "id": "a", "text": "乌尔善" },
+      { "id": "b", "text": "郭帆" },
+      { "id": "c", "text": "陈凯歌" },
+      { "id": "d", "text": "张艺谋" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 97,
+    "question": "中国高铁最快运营时速可达？",
+    "options": [
+      { "id": "a", "text": "350km/h" },
+      { "id": "b", "text": "400km/h" },
+      { "id": "c", "text": "380km/h" },
+      { "id": "d", "text": "300km/h" }
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 98,
+    "question": "香港的“两地牌”指的是？",
+    "options": [
+      { "id": "a", "text": "粤港两地车辆通行牌" },
+      { "id": "b", "text": "身份证" },
+      { "id": "c", "text": "驾驶证" },
+      { "id": "d", "text": "回乡证" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 99,
+    "question": "《热辣滚烫》改编自哪部电影？",
+    "options": [
+      { "id": "a", "text": "百元之恋" },
+      { "id": "b", "text": "瘦身男女" },
+      { "id": "c", "text": "拳皇" },
+      { "id": "d", "text": "阿甘正传" }
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 100,
+    "question": "中国互联网公司BAT指的是哪三家？",
+    "options": [
+      { "id": "a", "text": "百度、阿里巴巴、腾讯" },
+      { "id": "b", "text": "字节、阿里、腾讯" },
+      { "id": "c", "text": "百度、阿里、美团" },
+      { "id": "d", "text": "华为、阿里、腾讯" }
+    ],
+    "correctOption": 0
+  }
+]
