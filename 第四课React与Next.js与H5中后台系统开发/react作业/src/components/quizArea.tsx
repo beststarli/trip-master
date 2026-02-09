@@ -42,8 +42,16 @@ export default function QuizArea({ question, questionIndex, total, selectedOptio
                     {question.options.map((opt) => {
                         const isSelected = selectedOptionId === opt.id
                         const isCorrect = selectedOptionId !== null && opt.id === correctId
+                        
                         return (
-                            <SelectOpt key={opt.id} text={opt.text} onClick={() => onSelect(opt.id)} disabled={selectedOptionId !== null} isSelected={isSelected} isCorrect={isCorrect} />
+                            <SelectOpt
+                                key={opt.id}
+                                text={opt.text}
+                                onClick={() => onSelect(opt.id)}
+                                disabled={selectedOptionId !== null}
+                                isSelected={isSelected}
+                                isCorrect={isCorrect}
+                            />
                         )
                     })}
                 </div>
